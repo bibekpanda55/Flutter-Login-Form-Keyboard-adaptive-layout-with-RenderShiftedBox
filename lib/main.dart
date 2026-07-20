@@ -88,7 +88,7 @@ class _LoginPageState extends State<LoginPage> {
                       const KeyboardAwareHeader(
                         child: Padding(
                           padding: EdgeInsets.symmetric(vertical: 32),
-                          child: FlutterLogo(size: 220), // your hero art
+                          child: Center(child: FlutterLogo(size: 220)), // your hero art
                         ),
                       ),
                       const SizedBox(height: 24),
