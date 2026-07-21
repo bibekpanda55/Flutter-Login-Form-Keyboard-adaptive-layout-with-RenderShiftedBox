@@ -11,9 +11,10 @@ Minimal and runnable: two Dart files, no dependencies beyond Flutter itself.
 Companion repo to the article
 **[Flutter: A not so simple login form — keyboard-adaptive layout with RenderShiftedBox][article]**.
 
-[article]: ADD-YOUR-MEDIUM-LINK-HERE
+[article]: https://medium.com/@pandabibek75/flutter-a-not-so-simple-login-form-keyboard-adaptive-layout-with-rendershiftedbox-efe78dab4aa0
 
-<!-- Optional: drop a demo GIF here.
+<img width="756" height="1716" alt="Screen Recording 2026-07-20 at 5 23 03 PM" src="https://github.com/user-attachments/assets/4978ffc6-1534-4a3d-9933-29e9e6645fcf" />
+
 ![Flutter login screen: the hero image shrinks as the keyboard opens, keeping the Get OTP button visible above it](docs/demo.gif) -->
 
 ## Symptoms this fixes
